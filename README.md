@@ -14,7 +14,6 @@ Criando, mudando e construindo ao lado de vocês do GitHub
 
 
 <div style="display: inline_block"><cbr>
-   <img align="center" alt="Rafa-Godot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg">
   
 </div>
 
